@@ -25,3 +25,7 @@ hs_err_pid*
 # IDE file
 .vscode
 .idea
+*.iml
+
+# Compile file
+out
