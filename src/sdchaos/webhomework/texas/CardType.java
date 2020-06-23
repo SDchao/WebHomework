@@ -1,4 +1,4 @@
-package sdchao.webhomework.texas;
+package sdchaos.webhomework.texas;
 
 public class CardType {
     public static final int LOOSE = 0;
