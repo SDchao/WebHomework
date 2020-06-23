@@ -10,18 +10,18 @@ public class CardType {
     public static final int STRAIGHT_FLUSH = 6;
 
     private int type;
-    private int maxNum;
+    private int maxRank;
 
-    public CardType(int type, int maxNum) {
+    public CardType(int type, int maxRank) {
         this.type = type;
-        this.maxNum = maxNum;
+        this.maxRank = maxRank;
     }
 
     public int getType() {
         return type;
     }
 
-    public int getMaxNum() {
-        return maxNum;
+    public int getMaxRank() {
+        return maxRank;
     }
 }
