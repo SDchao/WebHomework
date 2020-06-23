@@ -1,6 +1,8 @@
 # 德州扑克
 ## 概述
 采用TDD开发流程，经过测试且通过后的德州扑克比点系统。
+
+测试文件参加[test.sdchaos.webhomework.texas](https://github.com/SDchao/WebHomework/blob/master/test/test/sdchaos/webhomework/texas/JudgeTest.java)
 ## 类与方法说明
 ### Judge
 用于判断两手牌的大小

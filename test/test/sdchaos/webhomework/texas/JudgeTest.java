@@ -10,7 +10,7 @@ import sdchaos.webhomework.texas.Judge;
 /** 
 * Judge Tester.
 * 
-* @author <Authors name> 
+* @author SDchao
 * @since <pre>6月 23, 2020</pre> 
 * @version 1.0 
 */ 
